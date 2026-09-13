@@ -4,7 +4,7 @@
 
 📸 Preview
 
-(drop a screenshot or GIF here — the neon maze looks best mid-game with a power pellet active!)
+ — the neon maze looks best mid-game with a power pellet active!)
 ✨ Features
 🎮 Faithful Arcade Gameplay
 
